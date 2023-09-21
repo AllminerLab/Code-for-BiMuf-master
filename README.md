@@ -34,3 +34,8 @@ with Multi-semantic Filter for Online Recruitment]"
 
   Used to save experimental results.
 
+
+Reference:
+
+Pei-Yuan Lai, Zhe-Rui Yang, Qing-Yun Dai, De-Zhang Liao, Chang-Dong Wang. "BiMuF: A Bi-directional Recommender System with Multi-semantic Filter for Online Recruitment", KAIS2023.
+
